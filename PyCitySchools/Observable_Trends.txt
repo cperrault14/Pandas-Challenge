@@ -1,0 +1,14 @@
+Based on the results of the School District dataset, I can conclude the following:
+
+1) It looks like the top 5 performing schools are all charter types of school whereas the bottom 5 
+   performing schools all district types school.
+   The top 5 charter schools seem to have less students per school when compared to the 5 
+   bottom performing schools which may be the reason why they tend to perform well. 
+   As an unsupported guess, less students might mean that each student gets the attention he/she needs 
+   to succeed on a particular subject. In the bootom perfomaing school, it looks like students 
+   tend to be worse in Math than Reading.
+
+
+
+2) Money spent on average per student is not necessarily a factor when it comes to how well students 
+   perform in school. The scores by school Spending table demonstrates that 
