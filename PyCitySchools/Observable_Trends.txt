@@ -11,4 +11,9 @@ Based on the results of the School District dataset, I can conclude the followin
 
 
 2) Money spent on average per student is not necessarily a factor when it comes to how well students 
-   perform in school. The scores by school Spending table demonstrates that 
+   perform in school. The "Scores by School Spending" table demonstrates that when $585 or less is spent on 
+   students, the average math, average reading, %passing math, % passing reading, % overall passing scores 
+   seem to be higher than the other two ranges. Students seem to be doing worse in the $645-$680 spending range
+   category. 
+   The % Passing Math score seems to be very low in larger schools based on the "Scores by School Size" table. 
+   The % Overall Passing score seems to be extremely low (roughly 58 %) in larger schools. 
