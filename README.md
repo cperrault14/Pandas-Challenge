@@ -22,3 +22,9 @@
       f. Creating folders and files to use in directory
       
 -----------------------------------------------------------------------------------------------------------------------------------------
+        
+    As a Chief Data Scientist for my city's school district, I have been asked to analyze the district-wide standardized test results. I         am given access to every students' math and reading scores, as well as various information on the schools they attend. My                     responsibility is to aggregate the data to and showcase obvious trends in school performance.
+
+    Based on my knowledge of Python, Jupyter Notebook and the Pandas library, my analysis led to the production of the following: 
+  
+            a. A district summary table with a high level snapshot of the total schools in the district, the type
