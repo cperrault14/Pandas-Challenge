@@ -4,7 +4,7 @@
 
     Here are some concepts that were covered in this Pandas Project:
 
-      a. Calling out Depencies to access Pandas library
+      a. Calling out depencies such as Pandas library to access its functions
       
       
       b. Assigning variables in Jupyter Notebook
