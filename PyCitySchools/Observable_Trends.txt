@@ -5,8 +5,8 @@ Based on the results of the School District dataset, I can conclude the followin
    The top 5 charter schools seem to have less students per school when compared to the 5 
    bottom performing schools which may be the reason why they tend to perform well. 
    As an unsupported guess, less students might mean that each student gets the attention he/she needs 
-   to succeed on a particular subject. In the bootom perfomaing school, it looks like students 
-   tend to be worse in Math than Reading.
+   to succeed on a particular subject. In the bottom performing schools, it looks like students 
+   tend to be worse in Math than Reading based on the percentage of students that passed Math.
 
 
 
@@ -14,6 +14,7 @@ Based on the results of the School District dataset, I can conclude the followin
    perform in school. The "Scores by School Spending" table demonstrates that when $585 or less is spent on 
    students, the average math, average reading, %passing math, % passing reading, % overall passing scores 
    seem to be higher than the other two ranges. Students seem to be doing worse in the $645-$680 spending range
-   category. 
-   The % Passing Math score seems to be very low in larger schools based on the "Scores by School Size" table. 
-   The % Overall Passing score seems to be extremely low (roughly 58 %) in larger schools. 
+   category. The percentage of students passing Math in that range is 66% whereas as it is 93% in the <$585 range
+   and 73% in the $585-$630 range. 
+   The percentage of students passing math seems to be very low in larger schools based on the "Scores by School Size" table. 
+   The percentage of students passing both Math and Reading seems to be extremely low (roughly 58 %) in larger schools. 
