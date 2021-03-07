@@ -10,10 +10,10 @@
       b. Assigning variables in Jupyter Notebook
 
 
-      c. Accessing functions in Pandas to calculate average, sum, perform counts,
+      c. Accessing functions in Pandas to calculate average, sum, perform counts of values
 
 
-      d. Left Joining two tables togetehr on key value to combine both datasets
+      d. Using Left Join to join two tables together on shared column to combine both datasets
 
 
       e. Creating new dataframe to hold summarized values
