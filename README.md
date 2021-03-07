@@ -39,8 +39,8 @@
         
         f. Reading Scores by grade table
         
-        g. Scores by school spending
+        g. Scores by school spending table
         
-        h. Scores by school size
+        h. Scores by school size table
         
-        i. Scores by school type
+        i. Scores by school type table
